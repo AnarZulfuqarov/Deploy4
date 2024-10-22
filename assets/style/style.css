@@ -1,0 +1,10 @@
+.icons {
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50% !important;
+  margin: 0 5px !important;
+  border: 1px solid gray !important;
+  text-align: center;
+  align-content: center;
+  color: gray;
+}
